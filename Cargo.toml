@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_libreoffice_calc"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_libreoffice_calc"
+path = "src/lib.rs"
+
+[dependencies]
