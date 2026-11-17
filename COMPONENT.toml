@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-libreoffice-calc"
-description = "LibreOffice Calc spreadsheet workflow integration"
+description = "LibreOffice Calc spreadsheet engine & A1 formula solver for SigmaOS"
 version = "0.1.0"
 tier = 4
 
